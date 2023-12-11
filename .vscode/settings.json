@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./facial_expression_recognition"
+    ]
+}
